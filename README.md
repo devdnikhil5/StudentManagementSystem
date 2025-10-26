@@ -14,7 +14,6 @@ It provides information about students, academic records, courses, and departmen
 | 📚 Academic Records | `records.html` | Displays students’ academic results and grades. |
 | 🧾 Course Modules | `course.html` | Lists all course modules with code, name, credits, and semester. |
 | 📝 Registration | `registration.html` | (Optional) For adding student or course registration forms. |
-| 📞 Contact | `contact.html` | Contains contact details for the department. |
 
 ---
 
